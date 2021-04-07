@@ -85,7 +85,7 @@ def paste():
 
 #About page 
 def about():
-     showinfo("This is created by Praveen Rao V P. Check out my GitHub Page @PraveenRaoVP for some code of my projects")
+     showinfo("This is created by Praveen Rao V P. Check out my GitHub Page @PraveenRaoVP for some awesome code of my projects")
 
 #function to quit the app
 def quit():
